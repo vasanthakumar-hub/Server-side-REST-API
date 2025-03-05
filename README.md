@@ -136,9 +136,7 @@ Response: The created item with an assigned ID.
 Method: PUT
 URL: http://127.0.0.1:8000/api/items/{id}/
 Body (JSON format):
-json
-Copy
-Edit
+
 {
     "name": "Updated Item",
     "description": "This item has been updated"
